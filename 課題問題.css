@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.step-box{
+  width: 300px;
+  margin: 30px;
+  padding: 10px;
+  position: relative;
+  background-color: #eee;
+}
+.step-img1{
+  height: 150px;
+  background-image: url(flow01.png);
+  background-position: bottom;
+  background-size: cover;
+}
