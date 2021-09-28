@@ -34,3 +34,15 @@ header{
   background-position: bottom;
   background-size: cover;
 }
+.step-name{
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #eee;
+  background-color: darksalmon;
+}
+footer{
+  height: 50px;
+  background-color: gray;
+
+}
