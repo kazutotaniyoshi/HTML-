@@ -2,6 +2,13 @@
   margin: 0;
   box-sizing: border-box;
 }
+header{
+  height: 50px;
+  background-color: lightsalmon;
+}
+header{
+  display: block;
+}
 .step-box{
   width: 300px;
   margin: 30px;
@@ -12,6 +19,18 @@
 .step-img1{
   height: 150px;
   background-image: url(flow01.png);
+  background-position: bottom;
+  background-size: cover;
+}
+.step-img2{
+  height: 150px;
+  background-image: url(flow02.png);
+  background-position: bottom;
+  background-size: cover;
+}
+.step-img3{
+  height: 150px;
+  background-image: url(flow03.png);
   background-position: bottom;
   background-size: cover;
 }
