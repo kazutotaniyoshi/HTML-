@@ -46,3 +46,8 @@ footer{
   background-color: gray;
 
 }
+main{
+  width: 960px;
+  margin: auto;
+  display: flex;
+}
