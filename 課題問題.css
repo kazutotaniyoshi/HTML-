@@ -58,3 +58,32 @@ footer{
 h3{
   margin: 15px 0 5px;
 }
+@media screen and (max-width: 768px){
+  header {
+    width: 100%; 
+  }
+  main{
+    width: 100%; 
+    display: inline-block;
+  }
+  .step-box{
+    width: 90%;
+    display: block;
+  }
+  .step-img1{
+    width: auto;
+  }
+  .step-img2{
+    width: auto;
+  }
+  .step-img3{
+    width: auto;
+  }
+  .title{
+    width: auto;
+  }
+  .text{
+    width: auto;
+  }
+
+}
