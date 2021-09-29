@@ -10,7 +10,7 @@ main{
 }
 header{
   height: 50px;
-  background-color: lightsalmon;
+  background-color: #ff9a4b;
 }
 header{
   display: block;
@@ -21,6 +21,9 @@ header{
   padding: 10px;
   position: relative;
   background-color: #eee;
+}
+.step-box:last-child{
+  margin-right: 0;
 }
 .step-img1{
   height: 150px;
@@ -45,11 +48,11 @@ header{
   top: 0;
   left: 0;
   color: #eee;
-  background-color: darksalmon;
+  background-color:#ff9a4b;
 }
 footer{
   height: 50px;
-  background-color: gray;
+  background-color: #aaa;
 
 }
 h3{
