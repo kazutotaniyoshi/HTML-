@@ -62,6 +62,9 @@ h3{
   header {
     width: 100%; 
   }
+  footer{
+    width: 100%;
+  }
   main{
     width: 100%; 
     display: inline-block;
