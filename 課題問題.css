@@ -4,7 +4,7 @@
   padding: 0;
 }
 main{
-  width: 960px;
+  width: 100%;
   margin: 50px auto;
   display: flex;
 }
@@ -16,7 +16,7 @@ header{
   display: block;
 }
 .step-box{
-  width: 300px;
+  width: 100%;
   margin-right: 30px;
   padding: 10px;
   position: relative;
@@ -53,6 +53,7 @@ header{
 footer{
   height: 50px;
   background-color: #aaa;
+  margin-top: 100px;
 
 }
 h3{
@@ -72,21 +73,18 @@ h3{
   .step-box{
     width: 90%;
     display: block;
-  }
-  .step-img1{
-    width: auto;
-  }
-  .step-img2{
-    width: auto;
-  }
-  .step-img3{
-    width: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
   }
   .title{
     width: auto;
   }
   .text{
     width: auto;
+  }
+  .step-box:last-child{
+  margin-right: 30px;
   }
 
 }
