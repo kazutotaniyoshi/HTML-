@@ -24,6 +24,7 @@ header{
 }
 .step-box:last-child{
   margin-right: 0;
+  margin-bottom: 0;
 }
 .step-img1{
   height: 150px;
